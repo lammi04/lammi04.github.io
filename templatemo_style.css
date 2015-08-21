@@ -110,7 +110,11 @@ em { color: #000; }
 	margin: 20px 0 10px;
 	padding: 0;
 	list-style: none;
+<<<<<<< HEAD
 	height:50px;
+=======
+	height:20px;
+>>>>>>> origin/master
 }
 
 #social_box li {
